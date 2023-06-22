@@ -1,3 +1,5 @@
+package blackjackapplication;
+
 public class BlackjackCard extends Card {
     public BlackjackCard(String suit, String rank) {
         super(suit, rank);
