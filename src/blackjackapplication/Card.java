@@ -1,3 +1,4 @@
+package blackjackapplication;
 public abstract class Card {
     private String suit;    // Suit of the card (e.g., hearts, diamonds, clubs, spades)
     private String rank;    // Rank of the card (e.g., Ace, King, Queen, Jack, 2-10)
